@@ -1,0 +1,11 @@
+.direnv
+.envrc
+.git
+.gitignore
+.env
+.env.*
+flake.*
+test
+
+out
+watch
